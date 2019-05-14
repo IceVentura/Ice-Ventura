@@ -1,0 +1,446 @@
+@font-face {
+    font-family: 'Open Sans Hebrew';
+    src: url('../fonts/Open Sans Hebrew Bold.eot');
+	src: url('../fonts/Open Sans Hebrew Bold-1.eot') format('embedded-opentype'),
+		url('../fonts/Open Sans Hebrew Bold.woff2') format('woff2'),
+		url('../fonts/Open Sans Hebrew Bold.woff') format('woff'),
+		url('../fonts/Open Sans Hebrew Bold.ttf') format('truetype'),
+		url('../fonts/Open Sans Hebrew Bold.otf') format('opentype'),
+		url('../fonts/Open Sans Hebrew Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+html {
+	font-size: 10px;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	outline:none;
+	text-decoration: none;
+}
+
+.container {
+	padding: 0;
+}
+
+
+/* Header */
+
+header {
+	margin-bottom: 7px;
+    padding: 9px 0;
+	background: #2d3258;
+}
+
+.phone-box {
+	text-align: right;
+	font: 700 3.8rem 'Open Sans Hebrew';
+	line-height: 2rem;
+	color: #b5b3be;
+}
+
+.phone-box a {
+	display: inline-block;
+	width: 100%;
+	font: 700 5.4rem 'Open Sans Hebrew';
+	color: #00c6ff;
+}
+
+.phone-box a img {
+	float: left;
+	width: 42px;
+    margin-top: 15px;
+}
+
+.logo-box {
+	text-align: right;
+}
+
+.logo {
+	display: inline-block;
+	width: 80%;
+}
+
+.logo img {
+	width: 100%;
+	margin-top: 9px;
+}
+
+/* End of Header */
+
+
+/* Main */
+
+.main {
+	position: relative;
+	height: 660px;
+	margin-bottom: 8px;
+	text-align: right;
+}
+
+h1 {
+	margin: 0;
+    padding-top: 17px;
+	font: 700 6.6rem Heebo;
+	color: #2d3258;
+}
+
+.main .slider,
+.main .no-slider {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+	overflow: hidden;
+}
+
+.slider .item img {
+	display: block;
+	margin: 0 auto;
+	height: 660px;
+}
+
+.no-slider .item img {
+	width: 100%;
+	height: auto;
+}
+
+.owl-nav > div {
+	position: absolute;
+	top: 300px;
+	z-index: 2;
+	width: 65px;
+	height: 65px;
+	padding-top: 16px;
+	text-align: center;
+	background: #fff;
+	opacity: .65;
+	border-radius: 50%;
+	box-shadow: 0 0 10px #333;
+	transition: .5s;
+}
+
+.owl-nav > div:hover {
+	opacity: 1;
+}
+
+.owl-nav > div img {
+	height: 36px;
+}
+
+.owl-prev {
+	left: 60px;
+    padding-right: 5px;
+}
+
+.owl-prev img {
+	transform: rotate(180deg);
+}
+
+.owl-next {
+	right: 60px;
+    padding-left: 5px;
+}
+
+.main .text {
+	width: 510px;
+	max-width: 100%;
+	margin: 0;
+	padding: 6px 0 45px;
+    font: 3rem Heebo;
+    line-height: 4rem;
+    color: #2d3258;
+    text-align: right;
+}
+
+h1,
+.main .text,
+#contactForm {
+	display: inline-block;
+}
+
+#contactForm {
+	width: 480px;
+	max-width: 100%;
+	padding: 28px 3.5% 45px;
+	background: rgba(180, 179, 187, 0.75);
+	box-shadow: 0 0 20px #000;
+}
+
+.form-desc {
+	font: 500 2.6rem Heebo;
+	text-shadow: 0 1px 1px #00c6ff;
+	color: #2d3258;
+}
+
+#contactForm input {
+	width: 100%;
+	text-align: center;
+	border: 0;
+}
+
+#contactForm input[type='text'] {
+	margin-bottom: 9px;
+	padding: 9px 0;
+	font: 300 2.3rem Heebo;
+	color: #000;
+}
+
+#contactForm input[type='text']:placeholder {
+	color: #b4b3bd;
+}
+
+#contactForm input[type='text']:nth-child(2) {
+	margin-top: 20px;
+}
+
+#contactForm input[type='text']:hover,
+#contactForm input[type='text']:focus {
+	box-shadow: 0 0 10px #ed1c24;
+}
+
+#contactForm input[type='submit'] {
+	margin-top: 9px;
+	padding: 8px 0;
+	font: 700 3.2rem Heebo;
+	color: #fff;
+	background: #00c6ff;
+}
+
+#contactForm input[type='submit']:hover,
+#contactForm input[type='submit']:focus {
+	box-shadow: 0 0 10px #000;
+}
+
+/* End of Main */
+
+/* Main2 */
+
+.main2 {
+	height: 920px;
+	padding-top: 255px;
+	background: url('../images/back1.jpg') no-repeat;
+	background-size: cover;
+	background-position: 50%;
+}
+
+.main2 .col-box {
+	box-shadow: 0 0 25px #fff;
+}
+
+.col-image {
+	width: 100%;
+}
+
+.col-desc {
+	padding: 34px 0;
+	font: 700 2.5rem Heebo;
+	color: #fff;
+	text-align: center;
+	background: #00c6ff;
+}
+
+.bubble {
+	width: 745px;
+	height: 240px;
+	margin: 42px auto 0;
+	background: url('../images/bubble.svg') no-repeat;
+	background-size: 100%;
+}
+
+.bubble-box {
+	padding: 46px 62px 0 80px;
+	font: 500 2.8rem Heebo;
+	text-align: center;
+	color: #fff;
+}
+
+/* End of Main2 */
+
+
+/* Footer */
+
+footer {
+	padding: 40px 0 30px;
+	text-align: center;
+}
+
+footer img {
+	width: 205px;
+	vertical-align: 0px;
+}
+
+footer img:not(:last-child) {
+	margin-right: 55px;
+}
+
+footer img:last-child {
+	vertical-align: -20px;
+}
+
+/* End of Footer */
+
+
+
+@media only screen and (max-width: 1366px) {
+
+	.main {
+		text-align: center;
+	}
+
+	.row {
+		margin: 0;
+	}
+
+	.owl-prev {
+		left: 10px;
+	}
+
+	.owl-next {
+		right: 10px;
+	}
+}
+
+@media only screen and (max-width: 1200px) {
+
+	.no-slider .item {
+		height: 100%;
+	}
+
+	.no-slider .item img {
+		width: auto;
+		height: 100%;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+
+	header {
+		padding: 12px 0;
+	}
+	
+	.phone-box a {
+		font-size: 4.3rem;
+	}
+
+	.phone-box a img {
+		width: 32px;
+	}
+
+	.main {
+		height: auto;
+		padding-bottom: 15px;
+	}
+
+	.slider .item img {
+		width: auto;
+		height: 580px;
+	}
+
+	.owl-nav > div {
+		top: 200px;
+		transform: scale(.75);
+	}
+
+	h1 {
+		padding-top: 10px;
+		font-size: 6rem;
+	}
+
+	.main .text {
+		padding: 5px 0 15px;
+		font-size: 2.5rem;
+	}
+
+	#contactForm {
+		padding: 20px 3.5% 32px;
+	}
+
+	.main2 {
+		height: auto;
+		padding: 20px 0 15px;
+	}
+
+	.main2 .col-md-4 {
+		padding: 0 50px 50px;
+	}
+
+	.bubble {
+    	max-width: 100%;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+
+	.phone-box a img {
+	    float: none;
+	    margin-top: -5px
+    }
+
+    .logo-box {
+    	padding-top: 10px;
+    }
+
+	.main .slider:not(.no-slider) {
+		position: static;
+		height: auto;
+	}
+
+	.no-slider .item {
+		height: 100%;
+	}
+
+	.no-slider .item img {
+		margin-left: -90%;
+		height: 100%;
+	}
+
+	.owl-nav > div {
+		top: 50px;
+	}
+
+	.slider .item img {
+		width: 100%;
+		height: auto;
+	}
+
+	.no-slider .item img {
+		height: 100%;
+	}
+
+	.bubble {
+		height: auto;
+		background: url('../images/bubble.svg') no-repeat;
+    	background-size: auto 100%;
+    	background-position: 50% 0;
+	}
+
+	.bubble-box {
+    	padding: 35px 10px 35px 10px;
+    }
+
+    footer {
+    	padding: 20px 0;
+    }
+
+    footer .container img {
+    	margin: 0 15px 15px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+
+
+
+}
+
+.thank {
+	padding-top: 15%;
+	font: 700 50px Heebo;
+	color: #000;
+	text-align: center;
+}
