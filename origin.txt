@@ -1,0 +1,132 @@
+Uri: https://www.olamazganim.co.il/
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\index.htm
+Content Type: text/html
+
+Uri: https://www.olamazganim.co.il/images/icon.png
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\icon.png
+Content Type: image/png
+
+Uri: https://www.olamazganim.co.il/css/bootstrap.min.css
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.olamazganim.co.il/css/owl.carousel.css
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.olamazganim.co.il/css/style.css
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\css\style.css
+Content Type: text/css
+
+Uri: https://www.olamazganim.co.il/images/phone.png
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\phone.png
+Content Type: image/png
+
+Uri: https://www.olamazganim.co.il/images/logo.png
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\logo.png
+Content Type: image/png
+
+Uri: https://www.olamazganim.co.il/images/sl1.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\sl1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img1.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img11.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img12.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img2.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img21.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img22.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img3.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img32.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/img33.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\img33.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/partner1.png
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\partner1.png
+Content Type: image/png
+
+Uri: https://www.olamazganim.co.il/images/partner2.png
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\partner2.png
+Content Type: image/png
+
+Uri: https://www.olamazganim.co.il/images/partner3.png
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\partner3.png
+Content Type: image/png
+
+Uri: https://www.olamazganim.co.il/js/validate.min.js
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\js\validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.olamazganim.co.il/js/owl.carousel.min.js
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.olamazganim.co.il/js/form.js
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\js\form.js
+Content Type: application/x-javascript
+
+Uri: https://www.olamazganim.co.il/js/script2.js
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\js\script2.js
+Content Type: application/x-javascript
+
+Uri: https://www.olamazganim.co.il/fonts/Open Sans Hebrew Bold.eot
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\fonts\Open Sans Hebrew Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.olamazganim.co.il/fonts/Open Sans Hebrew Bold.eot?
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\fonts\Open Sans Hebrew Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.olamazganim.co.il/fonts/Open Sans Hebrew Bold.woff2
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\fonts\Open Sans Hebrew Bold.woff2
+Content Type: font/woff2
+
+Uri: https://www.olamazganim.co.il/fonts/Open Sans Hebrew Bold.woff
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\fonts\Open Sans Hebrew Bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.olamazganim.co.il/fonts/Open Sans Hebrew Bold.ttf
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\fonts\Open Sans Hebrew Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.olamazganim.co.il/fonts/Open Sans Hebrew Bold.otf
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\fonts\Open Sans Hebrew Bold.otf
+Content Type: application/x-font-woff
+
+Uri: https://www.olamazganim.co.il/fonts/Open Sans Hebrew Bold.svg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\fonts\Open Sans Hebrew Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://www.olamazganim.co.il/images/back1.jpg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\back1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.olamazganim.co.il/images/bubble.svg
+File Name: C:\Users\Adi\Desktop\www.olamazganim.co.il\images\bubble.svg
+Content Type: image/svg+xml
+
